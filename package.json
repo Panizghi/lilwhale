@@ -17,3 +17,6 @@
   },
   "homepage": "https://github.com/Panizghi/lilwhale#readme"
 }
+"publishConfig": {
+   "panizghi:registry": "https://npm.pkg.github.com"
+ }
